@@ -1,0 +1,18 @@
+import java.util.*;
+public class parctice1 {
+    public static void main(String[] args) {
+        Scanner s1 = new Scanner(System.in);
+        int n = s1.nextInt();int sum = 0 ;
+        int[] arr = new int[n];
+        for(int i = 0 ;i<n ; i++){
+            arr[i] = s1.nextInt();
+        }
+       /* for(int i = 0 ; i<n ; i++){
+            if(arr[i]<0)
+            System.out.println(arr[i]);
+        }*/
+        for(int i = 0 ; i<n ; i++){
+            sum += arr[i];
+            System.out.println(sum);}
+    }
+}

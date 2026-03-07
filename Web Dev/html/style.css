@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+}
+#name{
+    color:#1A535C ;
+}
+.edu{
+    color: #A98743;
+}
+ul{
+    color: rgb(192, 255, 226);
+}
+body{
+    background-color: #EABA6B;
+}
+p{
+    color: rgb(192, 255, 226);
+}
+#about2{
+    color: #1A535C;
+}
+div{
+    color: aqua;
+}
+img{
+    width: 100vw;
+}
