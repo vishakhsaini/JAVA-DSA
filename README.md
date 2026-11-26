@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vishakhsaini/JAVA-DSA/tree/master/0045-jump-game-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vishakhsaini/JAVA-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vishakhsaini/JAVA-DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1436-destination-city](https://github.com/vishakhsaini/JAVA-DSA/tree/master/1436-destination-city) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/vishakhsaini/JAVA-DSA/tree/master/1791-find-center-of-star-graph) |
+## Hash Table
+|  |
+| ------- |
+| [1436-destination-city](https://github.com/vishakhsaini/JAVA-DSA/tree/master/1436-destination-city) |
+## String
+|  |
+| ------- |
+| [1436-destination-city](https://github.com/vishakhsaini/JAVA-DSA/tree/master/1436-destination-city) |
 <!---LeetCode Topics End-->
