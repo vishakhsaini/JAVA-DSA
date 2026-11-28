@@ -41,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/vishakhsaini/JAVA-DSA/tree/master/0771-jewels-and-stones) |
 | [1436-destination-city](https://github.com/vishakhsaini/JAVA-DSA/tree/master/1436-destination-city) |
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/vishakhsaini/JAVA-DSA/tree/master/0771-jewels-and-stones) |
 | [1436-destination-city](https://github.com/vishakhsaini/JAVA-DSA/tree/master/1436-destination-city) |
 ## Directed Acyclic Graph
 |  |
